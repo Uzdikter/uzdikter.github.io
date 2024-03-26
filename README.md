@@ -31,8 +31,3 @@ _Әр қазағым &mdash; жалғызым! <br>Өз білгендерімд
 </div>
 
 <p> </p>
-<div style="overflow: hidden;text-align: center;">
-  <a href="https://edu.contest.codeforces.com/group/ubBLVfWBpa/blog/entry/12575" style="float: left; color: red;"><<артқа</a>
-  <a href="https://edu.contest.codeforces.com/group/ubBLVfWBpa/blog/" style="text-align: center; color: red;"><мазмұны></a>
-  <a href="https://edu.contest.codeforces.com/group/ubBLVfWBpa/blog/entry/12638" style="float: right; color: red;">келесі>></a>
-</div>
