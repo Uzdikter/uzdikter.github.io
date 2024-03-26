@@ -1,10 +1,5 @@
 
-<div style="max-width: 800px; margin: 20px auto; overflow: hidden;">
-  <div style="float: left; margin-right: 20px;"> <!-- Image Container -->
-    <img src="/predownloaded/6c/0e/6c0ed49c5b742079e3ed6a1dbacfc8d091794783.jpg" alt="Blog Image" style="height: auto; max-height: 300px; object-fit: cover;">
-  </div>
-  <div style="overflow: hidden;"> <!-- Text Container -->
-_Толық аты-жөнім &mdash; <i><b>Ерғали Тұрарбекұлы Бердібаев</b></i>._ 
+_Толық аты-жөнім_ &mdash; <i><b>Ерғали Тұрарбекұлы Бердібаев</b></i>.
 
 _Оңтүстік өңірінде, Шымкент қаласында туып өстім._ 
 
